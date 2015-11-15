@@ -12,6 +12,8 @@ Now, clone your fork (note: make sure not to clone the original, but your own fo
 
 As you work through the exercises, each time you complete a function, make a commit.  Use the `--author` flag or set the `.gitconfig` so that the commits show up under the right name!
 
+# Read up on lists and tests
+
 ### A few things about lists
 
 First, work through the following resources on lists:
@@ -75,7 +77,7 @@ FAILED (failures=24, errors=1)
 ```
 Don't get too excited that your failure number has gone down by one -- an error means that the function call errored out when the test called it. You'll be able to see the error message it returned if you scroll up in the terminal to that test's section.
 
-### Go!
+# Go!
 
 Your mission is to get all the tests to pass by actually writing the functions in `list_operations.py`. When you've succeeded, you'll see only this output when you run your tests: 
 ```
